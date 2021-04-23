@@ -1,0 +1,22 @@
+.formcontainer {
+    width: fit-content;
+    padding: 10px 10px 10px 20px;
+    margin: 5px auto;
+    border:1px solid brown;
+
+}
+.formcontainer input {
+    margin: 10px 5px;
+    outline: none;
+}
+.formcontainer button {
+    float: right;
+    margin: 10px 5px;
+    border-radius: 14px;
+    border: none;    
+}
+#showbtn {
+    width: 50%;
+    padding: 10px;
+    margin: 5px auto;
+}
